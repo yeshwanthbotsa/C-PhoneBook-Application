@@ -20,6 +20,28 @@ A menu-driven Phone Book Management System developed in C using a Singly Linked 
 - Modular programming using multiple C source files
 - Makefile for compilation
 
+
+## Screenshots
+
+### Main Menu
+
+![Phone Book Main Menu](images/menu.png)
+
+### Creating a Contact
+
+![Creating a Contact](images/create-contact.png)
+
+### Displaying Contacts
+
+![Displaying Contacts](images/contacts.png)
+
+### File Persistence
+
+![File Persistence](images/data.png)
+
+
+
+
 ## Menu
 
 ```text
@@ -169,8 +191,8 @@ make clean
 Creating a contact:
 
 ```text
-Enter contact name: yash
-Enter phone number 1: 9100520414
+Enter contact name: sample
+Enter phone number 1: 6495302533
 Do you want to add another number to the same name (Y/N): n
 Do you want to add email (Y/N): y
 Enter email: botsa@gmail.com
@@ -186,7 +208,7 @@ Displaying the contact:
 Name    : sample
 Phone 1 : 6495302533
 Email   : botsa@gmail.com
-Address : Hyderabad
+Address : Not Available
 ---------------------------------------------
 ```
 
