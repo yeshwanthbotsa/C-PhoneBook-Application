@@ -23,22 +23,24 @@ A menu-driven Phone Book Management System developed in C using a Singly Linked 
 
 ## Screenshots
 
+### Make Compilation
+
+![File Persistence](images/make.png)
+
+
 ### Main Menu
 
 ![Phone Book Main Menu](images/menu.png)
+
 
 ### Creating a Contact
 
 ![Creating a Contact](images/create-contact.png)
 
+
 ### Displaying Contacts
 
 ![Displaying Contacts](images/contacts.png)
-
-### File Persistence
-
-![File Persistence](images/data.png)
-
 
 
 
