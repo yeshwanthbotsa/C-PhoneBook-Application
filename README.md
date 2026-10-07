@@ -1,4 +1,4 @@
-# C Phone Book Management System
+# C - Phone Book Application
 
 A menu-driven Phone Book Management System developed in C using a Singly Linked List and File Handling.
 
